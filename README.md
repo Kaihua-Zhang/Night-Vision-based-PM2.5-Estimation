@@ -4,13 +4,15 @@ Code and Data for paper 《Vision-based PM2.5 Estimation in Nighttime》
 ## Data
 The data used in the paper can be obtained through the following paths.  
 Note that the folder prefixed with 'ADD' stores the additional data obtained after increasing the sampling period.  
+The path and file name show the corresponding air quality, camera position, data, and time. For example  
+"\img_2023_0215_0217_1080p\c1\02151900\raw_30.13.png" means the image is captured at location 1, February 15, 2023, 19:00, when PM2.5 sensor reading is 30.13 ug/m^3.
 1. Baidu Cloud Disk  
    Link: https://pan.baidu.com/s/1eEx7bJBqj4Zj4id-LVREWw  
    Extraction code: d6ef  
 3. Alibaba Cloud Disk  
    Link: https://www.aliyundrive.com/s/kZkRVFGD7RR  
-   Extraction code: 20ft
-
+   Extraction code: 20ft  
+   You may need unzip software available from https://7-zip.org/
 
 ## Code
 
