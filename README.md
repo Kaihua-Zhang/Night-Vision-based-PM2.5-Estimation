@@ -22,6 +22,7 @@ We also release the 1440 × 2560 images that had not yet been codified.
    Link: https://pan.baidu.com/s/1m948gPMm68N5P6TIT_n_Kw  
    Extraction code: brti  
 ## Code
-![image](Features.png)
+Here is an example:  
+![image](https://github.com/Kaihua-Zhang/Vision-based-PM2.5-Estimation-in-Nighttime/blob/main/Features.png)
 
    
