@@ -3,7 +3,7 @@ Code and Data for paper 《Vision-based PM2.5 Estimation in Nighttime》
 
 ## Data
 The data used in the paper can be obtained through the following paths.  
-   Note that the folder prefixed with 'ADD' stores the additional data obtained after increasing the sampling period.  
+   Note that the folder prefixed with 'ADD' stores the additional data obtained after increasing the sampling frequency.  
 - Baidu Cloud Disk  
    Link: https://pan.baidu.com/s/1eEx7bJBqj4Zj4id-LVREWw  
    Extraction code: d6ef  
