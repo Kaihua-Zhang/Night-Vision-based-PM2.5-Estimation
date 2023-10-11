@@ -2,7 +2,7 @@
 Code and Data for paper 《Night Vision based PM2.5 Estimation》
 
 ## Data
-Imgae Dataset and corresponding Environment Labels used in the paper are available by following paths.  
+Imgae Dataset and corresponding Environment Labels used in the paper are available at following paths.  
    Note that the folder prefixed with 'ADD' stores the additional data obtained after increasing the sampling frequency.  
 - Baidu Cloud Disk  
    Link: https://pan.baidu.com/s/1eEx7bJBqj4Zj4id-LVREWw  
