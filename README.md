@@ -1,4 +1,4 @@
-# Vision-based-PM2.5-Estimation-in-Nighttime
+# Night Vision based PM2.5 Estimation
 Code and Data for paper 《Night Vision based PM2.5 Estimation》
 
 ## Data
