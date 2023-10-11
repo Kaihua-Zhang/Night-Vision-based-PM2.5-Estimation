@@ -2,7 +2,7 @@
 Code and Data for paper 《Night Vision based PM2.5 Estimation》
 
 ## Data
-The data used in the paper can be obtained through the following paths.  
+Imgae Dataset and corresponding Environment Labels used in the paper can be obtained through the following paths.  
    Note that the folder prefixed with 'ADD' stores the additional data obtained after increasing the sampling frequency.  
 - Baidu Cloud Disk  
    Link: https://pan.baidu.com/s/1eEx7bJBqj4Zj4id-LVREWw  
@@ -22,7 +22,7 @@ We also release the 1440 × 2560 images that had not yet been codified.
    Link: https://pan.baidu.com/s/1m948gPMm68N5P6TIT_n_Kw  
    Extraction code: brti  
 ## Code
-Here is an example:  
+Here is an illustration of Code for Glow Map:  
 ![image](https://github.com/Kaihua-Zhang/Vision-based-PM2.5-Estimation-in-Nighttime/blob/main/Features.png)
 
    
