@@ -1,5 +1,5 @@
 # Vision-based-PM2.5-Estimation-in-Nighttime
-Code and Data for paper 《Vision-based PM2.5 Estimation in Nighttime》
+Code and Data for paper 《Night Vision based PM2.5 Estimation》
 
 ## Data
 The data used in the paper can be obtained through the following paths.  
