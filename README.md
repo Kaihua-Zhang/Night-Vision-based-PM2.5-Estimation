@@ -1,5 +1,5 @@
-# Night Vision based PM2.5 Estimation
-Code and Data for paper 《Night Vision based PM2.5 Estimation》
+# Light-glow based Nighttime PM2.5 Estimation
+Code and Data for paper 《Light-glow based Nighttime PM2.5 Estimation》
 
 ## Data
 Imgae Dataset and corresponding Environment Labels used in the paper are available at following paths.  
